@@ -1,0 +1,1 @@
+This folder contains ComfyUI workflows that provide useful utility in dataset preparation.
